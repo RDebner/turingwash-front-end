@@ -1,0 +1,28 @@
+
+ .header , .footer {
+    background-color: rgb(190, 247, 254);
+ }
+ .main {
+    background-color: rgb(234, 247, 255);
+ }
+ .main__button-lavarcarro{
+    background-color: rgb(147,242,254);
+ }
+ .main__button-avaliações{
+    background-color: rgb(255,255,255);
+ }
+ .main__image{
+  width: 100px;
+  height: 100px;
+ }
+ .header__logo, .footer__logo{
+    width: 90px;
+    height: 50px;
+ }
+ .footer__image{
+    width: 20px;
+    height: 20px;
+ }
+ .main__image{
+    background-color: #fff;
+ }
