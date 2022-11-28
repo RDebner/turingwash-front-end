@@ -7,9 +7,11 @@
  }
  .main__button-lavarcarro{
     background-color: rgb(147,242,254);
+    border-color: rgb(147,242,254);
  }
  .main__button-avaliações{
     background-color: rgb(255,255,255);
+    border-color: rgb(255,255,255) ;
  }
  .main__image{
   width: 100px;
@@ -26,3 +28,38 @@
  .main__image{
     background-color: #fff;
  }
+ .header__button{
+   background-color: rgb(190,247,254) ;
+   border-color:rgb(190,247,254) ;
+ }
+ .header__button__sair{
+   background-color: rgb(147,242,254);
+   border-color:rgb(147,242,254) ;
+ }
+ .main__informacoes{
+   background-color: #fff;
+ }
+ 
+ 
+ .main__button__select-input{
+   background-color: transparent;
+   border: none;
+   font-weight: bold;
+   
+ }
+ .main__button{
+   background-color: transparent;
+   border:none;
+}
+.main__title{
+   font-size: 40px;
+}
+.main__button-lavar{
+   background-color: transparent;
+   border:none;
+
+}
+.header{
+   display: flex;
+   align-items: center;
+}
