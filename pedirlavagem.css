@@ -29,6 +29,8 @@
 
 .main__informacoes{
    background-color: #fff;
+   margin-left: 100px;
+   margin-right: 100px;
  }
  .main__button__select-input{
    background-color: transparent;
@@ -59,7 +61,7 @@
 }
 .main__image{
    background-color: #fff;
-   margin-left: 250px;
+   margin-left: 100px;
    padding-top: 10px;
    padding-bottom: 20px;
 }
@@ -73,17 +75,17 @@
 .main__button-avaliações{
    background-color: rgb(255,255,255);
    border-color: rgb(255,255,255) ;
-   margin-left: 840px;
+   margin-left: 720px;
 }
 .main__image{
- width: 100px;
- height: 100px;
+ width: 80px;
+ height: 80px;
 }
 .main__informacoes__nome{
 padding-bottom: 20px;
 }
 .main__informacoes__nota{
-   padding-left: 400px;
+   padding-left: 425px;
    padding-bottom: 20px;
 }
 .main__informacoes__preco{
