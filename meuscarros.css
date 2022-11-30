@@ -9,10 +9,22 @@
 .header__button-meuscarros , .header__button-minhaslavagens{
   background-color: rgb(190,247,254) ;
   border-color:rgb(190,247,254) ;
+  border-radius: 5px;
+  font-weight: bold;
+  padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
 }
 .header__button__sair{
   background-color: rgb(147,242,254);
   border-color:rgb(147,242,254) ;
+  border-radius: 5px;
+  font-weight: bold;
+  padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
 }
 .header{
   display: flex;
@@ -23,7 +35,7 @@
   
 }
 .header__button-meuscarros{
-  margin-left: 820px;
+  margin-left: 790px;
   margin-right: 0;
 }
  .main {
@@ -35,33 +47,51 @@
 
  .main__informations{
     background-color: #fff;
-    padding-bottom: 200px;
+    margin-bottom: 40px;
     margin-left: 100px;
     margin-right: 100px;
+ }
+ .main__informations-carro , .main__informations-ano{
+   margin-left: 20px;
+   margin-top: 20px;
+ }
+ .main__informations-carro{
+   padding-top: 20px;
+   font-weight: bold;
  }
  .main__informations__excluircarro{
     background-color: rgb(253,156,157);
     border-color: rgb(253,156,157);
     margin-top: 60px;
+    margin-left: 850px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    font-weight: bold;
  }
  .main__adicionarcarro{
     background-color: rgb(147,242,254);
     border-color: rgb(147,242,254);
-    margin-bottom: 200px;
+    margin-bottom: 300px;
     margin-top: 30px;
     margin-left: 500px;
-    
-    
-    
- }
- 
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
 
-.main__title{
+ .main__title{
     font-size: 40px;
     padding-left:500px;
     padding-top: 30px;
     padding-bottom: 50px;
 }
+
 .footer__image{
    width: 20px;
    height: 20px;
