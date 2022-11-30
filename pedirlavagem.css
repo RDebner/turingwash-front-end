@@ -23,7 +23,7 @@
    justify-content:left;
 }
 .header__button-meuscarros{
-   margin-left: 820px;
+   margin-left: 940px;
    margin-right: 0;
 }
 
@@ -36,13 +36,21 @@
    font-weight: bold;
    
  }
- .main__button{
+ .main__button , .main__button-ordenar{
    background-color: transparent;
    border:none;
 }
+.main__button-ordenar{
+   padding-left: 400px;
+}
+.main__button-lavar{
+   padding-left: 250px;
+}
 .main__title{
    font-size: 40px;
-   margin-left: 250px;
+   margin-left: 300px;
+   padding-bottom: 20px;
+   padding-top: 20px;
 }
 .main__button-lavar{
    background-color: transparent;
@@ -51,6 +59,9 @@
 }
 .main__image{
    background-color: #fff;
+   margin-left: 250px;
+   padding-top: 10px;
+   padding-bottom: 20px;
 }
 .main {
    background-color: rgb(234, 247, 255);
@@ -62,23 +73,40 @@
 .main__button-avaliações{
    background-color: rgb(255,255,255);
    border-color: rgb(255,255,255) ;
+   margin-left: 840px;
 }
 .main__image{
  width: 100px;
  height: 100px;
 }
+.main__informacoes__nome{
+padding-bottom: 20px;
+}
+.main__informacoes__nota{
+   padding-left: 400px;
+   padding-bottom: 20px;
+}
+.main__informacoes__preco{
+   padding-left: 10px;
+   
+}
+.main__informacoes__nome , .main__informacoes__nota , .main__informacoes__preco {
+   
+   font-weight: bold;
+}
 
 .footer__image{
    width: 20px;
    height: 20px;
-   margin-left: 450px;
-   margin-top: 160px;
+   margin-left: 700px;
+   margin-top: 80px;
+   margin-bottom: 20px;
    
 }
 .footer{
    display: flex;
-   padding-top: 30px;
-   padding-bottom: 40px;
+   padding-top: 5px;
+   padding-bottom: 5px;
 }
 .footer__logo{
    width: 60px;
@@ -88,8 +116,8 @@
 .footer__informations{
 
    margin-left: 300px;
-   padding-top: 30px;
+   padding-top: 20px;
 }
 .footer__instagram{
-   margin-top: 160px;
+   margin-top: 80px;
 }
