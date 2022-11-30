@@ -67,6 +67,7 @@
 }
 .main {
    background-color: rgb(234, 247, 255);
+   padding-bottom: 50px;
 }
 .main__button-lavarcarro{
    background-color: rgb(147,242,254);
