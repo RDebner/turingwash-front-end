@@ -49,7 +49,7 @@
     padding-top: 20px;
  }
  .main__informations{
-   background-color: #fff ;
+   
    margin-left: 200px;
    margin-right: 200px;
    padding-top: 30px;
@@ -61,7 +61,7 @@
    padding-left: 20px;
 }
 .main__informations-nomelavador{
-   padding-top: 20px;
+   padding-top: 40px;
    font-weight: bold;
 }
 .main__informations-carro{
@@ -72,12 +72,31 @@ padding-left: 150px;
    font-weight: bold;
 }
 .main__informations-preco{
-   padding-left: 900px;
-}
-.main__informations-mainblock
-{
+   margin-left: 510px;
    margin-bottom: 20px;
-   padding-top: 5px;
+   padding-right: 4px;
+   padding-top: 10px;
+   background-color: rgb(221,252,254) ;
+}
+.main__informations-mainblock{
+   background-color: #fff ;
+   margin-top: 20px;
+   margin-bottom: 40px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+.main__informations-blocks2{
+   padding-top: 20px;
+}
+.main__informations-modelocarro2{
+   padding-left: 50px;
+   font-weight: bold;
+}
+.main__informations-data{
+   padding-left: 222px;
+}
+.main__informations-data2{
+   padding-left: 200px;
 }
 .footer__image{
    width: 20px;
